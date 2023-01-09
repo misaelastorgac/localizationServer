@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "firebase": "^6.2.2",
-    "firebase-admin": "^8.2.0",
+    "firebase-admin": "^11.4.1",
     "geopoint": "^1.0.1"
   }
 }
